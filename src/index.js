@@ -1,1 +1,1 @@
-export { Vektor } from "./Vektor.js";
+export { Vektor } from './Vektor.js';
