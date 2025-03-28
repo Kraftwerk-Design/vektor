@@ -1,6 +1,6 @@
-import { BaseAnimation } from './BaseAnimation'
-import { AttributeParser } from './AttributeParser'
-import type { AnimationConfig } from './types'
+import { BaseAnimation } from './BaseAnimation.js'
+import { AttributeParser } from './AttributeParser.js'
+import type { AnimationConfig } from './types.js'
 
 /**
  * Animation module constructor type

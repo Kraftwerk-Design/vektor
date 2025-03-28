@@ -1,9 +1,9 @@
-import { AttributeParser } from './AttributeParser'
+import { AttributeParser } from './AttributeParser.js'
 import type {
   AnimationConfig,
   BaseAnimationOptions,
   IntersectionObserverInit,
-} from './types'
+} from './types.js'
 
 /**
  * BaseAnimation

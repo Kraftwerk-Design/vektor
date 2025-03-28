@@ -1,5 +1,5 @@
-import { BaseAnimation } from './BaseAnimation'
-import type { FadeInOptions } from './types'
+import { BaseAnimation } from './BaseAnimation.js'
+import type { FadeInOptions } from './types.js'
 
 /**
  * FadeInAnimation

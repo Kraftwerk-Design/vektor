@@ -1,5 +1,5 @@
-import { BaseAnimation } from './BaseAnimation'
-import type { ParallaxOptions } from './types'
+import { BaseAnimation } from './BaseAnimation.js'
+import type { ParallaxOptions } from './types.js'
 
 /**
  * Configuration options for parallax animation

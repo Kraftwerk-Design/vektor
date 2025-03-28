@@ -1,5 +1,5 @@
-import { DEFAULT_CONFIG } from './types'
-import type { AnimationConfig, ParsedElementOptions } from './types'
+import { DEFAULT_CONFIG } from './types.js'
+import type { AnimationConfig, ParsedElementOptions } from './types.js'
 
 // Common animation attributes that can be applied to any module
 interface CommonAttributeMapping {
