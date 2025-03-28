@@ -1,0 +1,34 @@
+{
+  "name": "@kraftwerkdesign/vektor",
+  "version": "0.0.1",
+  "description": "An animtion framework",
+  "keywords": [
+    "animation",
+    "framework",
+    "kraftwerk"
+  ],
+  "homepage": "https://github.com/Kraftwerk-Design/vektor",
+  "bugs": {
+    "url": "https://github.com/Kraftwerk-Design/vektor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kraftwerk-Design/vektor.git"
+  },
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Curtis Henson",
+      "email": "curtis@kraftwerkdesign.com",
+      "url": "https://kraftwerkdesign.com"
+    }
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
