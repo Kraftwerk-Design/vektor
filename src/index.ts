@@ -1,6 +1,3 @@
-// Export all the Animation components
-export * from './Animation/index.js'
-
 // Export the Vektor namespace as default
 export { Vektor as default } from './Vektor.js'
 
