@@ -10,4 +10,4 @@ export type {
   BaseAnimationOptions,
   FadeInOptions,
   ParallaxOptions,
-} from './Animation/types.js'
+} from '@animations/types.js'

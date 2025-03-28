@@ -4,16 +4,16 @@ import {
   FadeInAnimation,
   ParallaxAnimation,
   Debug,
-} from './Animation/index.js'
+} from '@animations/index.js'
 
-import { AttributeParser } from './Animation/AttributeParser.js'
+import { AttributeParser } from '@animations/AttributeParser.js'
 
 import type {
   AnimationConfig,
   BaseAnimationOptions,
   FadeInOptions,
   ParallaxOptions,
-} from './Animation/types.js'
+} from '@animations/types.js'
 
 /**
  * Vektor - A lightweight, flexible animation framework for creating scroll-based animations and effects.
