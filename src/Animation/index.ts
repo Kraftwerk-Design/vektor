@@ -1,0 +1,5 @@
+export { BaseAnimation } from './BaseAnimation'
+export { FadeInAnimation } from './FadeInAnimation'
+export { ParallaxAnimation } from './ParallaxAnimation'
+export { AnimationManager } from './AnimationManager'
+export * as Debug from './Debug'
